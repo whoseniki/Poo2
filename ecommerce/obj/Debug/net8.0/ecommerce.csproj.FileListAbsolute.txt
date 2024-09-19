@@ -1,0 +1,14 @@
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.AssemblyInfoInputs.cache
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.AssemblyInfo.cs
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.csproj.CoreCompileInputs.cache
+/Users/breno/Aulas/DSI/ecommerce/bin/Debug/net8.0/ecommerce
+/Users/breno/Aulas/DSI/ecommerce/bin/Debug/net8.0/ecommerce.deps.json
+/Users/breno/Aulas/DSI/ecommerce/bin/Debug/net8.0/ecommerce.runtimeconfig.json
+/Users/breno/Aulas/DSI/ecommerce/bin/Debug/net8.0/ecommerce.dll
+/Users/breno/Aulas/DSI/ecommerce/bin/Debug/net8.0/ecommerce.pdb
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.dll
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/refint/ecommerce.dll
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.pdb
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ecommerce.genruntimeconfig.cache
+/Users/breno/Aulas/DSI/ecommerce/obj/Debug/net8.0/ref/ecommerce.dll
